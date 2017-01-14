@@ -1,0 +1,153 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray">
+
+    <TextView
+        android:text="TIME"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#FF99CC"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+ 
+    <TextView
+        android:text="DOES"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#FFCCFF"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+      
+    <TextView
+        android:text="NOT"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#CC99FF"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+    
+    <TextView
+        android:text="WAIT"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#B266FF"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+      
+    <TextView
+        android:text="TIME"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#7F00FF"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+    
+       <TextView
+        android:text="HAS"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#3333FF"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+    
+      <TextView
+        android:text="NO"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#6666FF"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+       
+    <TextView
+        android:text="ENEMIES"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#9999FF"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+    
+    <TextView
+        android:text="OR"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#66B2FF"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+ <TextView
+        android:text="PATIENCE"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#3399FF"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+ 
+    <TextView
+        android:text="OR"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#00CCCC"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+    
+      <TextView
+        android:text="MERCY"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#0066CC"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+    
+      <TextView
+        android:text="OR"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#000099"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+    
+    <TextView
+        android:text="MOTIVE"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#6600CC"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+    
+      <TextView
+        android:text="OR"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#990099"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+    
+      <TextView
+        android:text="PREFERENCE"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#FF007F"
+        android:textSize="24sp"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+
+
+
+</LinearLayout>
